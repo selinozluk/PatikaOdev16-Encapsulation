@@ -1,9 +1,9 @@
 # PatikaOdev16-Encapsulation Pratiği
-# Proje Açıklaması
+## Proje Açıklaması
 Bu projede bir Araba sınıfı oluşturulmuş ve kapı sayısı (DoorCount) özelliği için encapsulation (kapsülleme) uygulanmıştır.
 
 
-# Özellikler
+## Özellikler
 Sınıf adı: Araba
 
 Property’ler: Brand, Model, Color, DoorCount
@@ -16,7 +16,7 @@ Konsola uyarı mesajı yazılır
 
 Değer -1 olarak atanır
 
-# Kullanım
+### Kullanım
 Kullanıcıdan araba bilgileri alınır
 
 Bilgiler doğrulanarak ekrana yazdırılır
