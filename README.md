@@ -2,7 +2,8 @@
 # Proje Açıklaması
 Bu projede bir Araba sınıfı oluşturulmuş ve kapı sayısı (DoorCount) özelliği için encapsulation (kapsülleme) uygulanmıştır.
 
-Özellikler
+
+# Özellikler
 Sınıf adı: Araba
 
 Property’ler: Brand, Model, Color, DoorCount
